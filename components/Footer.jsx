@@ -1,6 +1,5 @@
 import React from "react";
 import { AiFillInstagram, AiOutlineTwitter } from "react-icons/ai";
-import "react-icons/ai";
 
 const Footer = () => {
   return (
